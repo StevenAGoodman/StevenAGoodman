@@ -9,18 +9,16 @@ _  _   __ _   _    __      _  _  _  ___   __  _   ___
 i'm steven.
 
 - i code for
-  - math
-  - physics
-  - biology (genetics currently)
-  - modeling
- 
+  - math visualization
+  - physics modeling
+  - biology (genetics currently) 
 
 - somewhat experienced with
   - python
     - scipy, numpy, etc
     - manim
-  - javascript
   - R
+  - javascript
   - html & css
 <!---
 StevenAGoodman/StevenAGoodman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
